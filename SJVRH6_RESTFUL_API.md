@@ -19,7 +19,7 @@ Content-Type: application/json
   "dateUpdated": "2020-02-26"
 },
 {
-  "id": "789"
+  "id": "789",
   "title": "Zebras",
   "body": "Zebras are black and white",
   "author": "Ms_Zebra",
