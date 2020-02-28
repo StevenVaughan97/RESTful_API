@@ -1,1 +1,1 @@
-[Link to API examples](SJVRH6_REST_API.md)
+[Link to API examples](SJVRH6_RESTFUL_API.md)
