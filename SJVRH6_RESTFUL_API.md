@@ -98,6 +98,7 @@ Will return to the user all documents that are still hosted that were updated on
 ```json
 HTTP/1.1 200 OK
 Content-Type: application/json
+Content: 2
 [{
   "id": "234",
   "title": "Whales",
